@@ -1,0 +1,2 @@
+man grep | grep "\-A" -A 2
+
